@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "849184052267",
+    "project_id": "pharmcy-86f64",
+    "storage_bucket": "pharmcy-86f64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849184052267:android:acb16bbfb7a1aefb78466e",
+        "android_client_info": {
+          "package_name": "com.example.pharmay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849184052267-9ph06lpva2juhprd7lmqobncer69c9u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3ad6BZDTmjue0vatd8Cv0pM5XwJRn5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849184052267-9ph06lpva2juhprd7lmqobncer69c9u2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849184052267-7fr1tl227snf4glqfguacjdonl1olc0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mash.pharmay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849184052267:android:32eeae22f7ae32d978466e",
+        "android_client_info": {
+          "package_name": "com.webullish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849184052267-9ph06lpva2juhprd7lmqobncer69c9u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3ad6BZDTmjue0vatd8Cv0pM5XwJRn5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849184052267-9ph06lpva2juhprd7lmqobncer69c9u2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849184052267-7fr1tl227snf4glqfguacjdonl1olc0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mash.pharmay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
